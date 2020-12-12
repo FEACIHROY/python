@@ -1,1 +1,2 @@
-print('hello world')
+a = list(input())
+print(type(a[0]))
